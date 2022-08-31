@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-// GIT_USER=ck-lamib yarn deploy
+// GIT_USER=Bimal-kshetri yarn deploy
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ck-lamib', // Usually your GitHub org/user name.
+  organizationName: 'Bimal-kshetri', // Usually your GitHub org/user name.
   projectName: 'website-my', // Usually your repo name.
   deploymentBranch: "gh-pages",
   trailingSlash: false,
